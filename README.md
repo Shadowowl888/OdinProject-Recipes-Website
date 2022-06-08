@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple HTML website that lists a few of a my favorite foods and their recipes.
+A project in the Odin Project course to showcase an understanding of basic HTML.
